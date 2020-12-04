@@ -1,0 +1,61 @@
+body {
+    margin: 0;
+    font-family: noto;
+  }
+  
+  a {
+    text-decoration: none;
+  }
+  
+  .container {
+    width: 1170px;
+    padding: 0 15px;
+    margin: 0 auto;
+  }
+  
+  .top-wrapper {
+    padding: 180px 0 100px 0;
+    background-image: url(https://www.google.co.jp/url?sa=i&url=https%3A%2F%2Fwww.thejazzpianosite.com%2Fjazz-piano-lessons%2F&psig=AOvVaw1zNQlahHM90SGGeoNZFr6n&ust=1607142896076000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMDJlIDAs-0CFQAAAAAdAAAAABAD);
+    background-size: cover;
+    color: white;
+  }
+
+  h1 {
+      opacity: 0.7;
+      font-size: 45px;
+      letter-spacing: 5px;
+  }
+   
+  p {
+      opacity: 0.7;
+  }
+
+  .btn {
+    padding: 8px 24px;
+    color: white;
+    display: inline-block;
+    opacity: 0.8;
+  }
+.signup {
+  background: #239b76;
+}
+
+.facebook {
+  background: #3b5998;
+  margin-right: 10px;
+}
+
+.twitter {
+  background: #55acee;
+}
+
+.btn-wrapper {
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+
+  p {
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+  
